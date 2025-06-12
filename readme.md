@@ -3,7 +3,7 @@
 * A simple news site practice using several APIs
 * A kind of React project at front, and a Spring Boot project at back
 * In collaboration with KDT classmates
-    - @yull222 , @ohyeon1002 , @DevLibrary04
+    - [@yull222] , [@ohyeon1002] , [@DevLibrary04]
 
 ## APIs and libraries details
 ### API
