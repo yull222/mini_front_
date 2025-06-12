@@ -8,13 +8,13 @@
 ## APIs and libraries details
 ### API
 * Naver news search API
-    Retrieves news links, title, and other info
+> Retrieves news links, title, and other info
 * Google gemini
-    Summarizes the news content
+> Summarizes the news content
 ### Library
 * BeautifulSoup4
-    Parsing news contents to summarize
+> Parsing news contents to summarize
 * Flask
-    Python server that processes parsing and summarizing
+> Python server that processes parsing and summarizing
 
 ### Further details to be confirmed…
