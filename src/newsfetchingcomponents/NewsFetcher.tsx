@@ -10,7 +10,6 @@ export type newsInfo = {
   link: string;
   description: string;
   pubDate: string;
-  id: string;
 };
 export default function NewsFetcher({ uriEncodedString }: newsFetcherProps) {
   //리퀘스트 헤더 만들고 api 키 넣기
