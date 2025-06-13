@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import NewsPage from "./newsfetchingcomponents/NewsPage";
 import LoginForm from "./signcomponents/Login";
 import SignupForm from "./signcomponents/SignupForm";
+import Scrap from "./pages/Scrap";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
             <Route path="/" element={<NewsPage />} />
             <Route path="/login" element={<LoginForm />} />
             <Route path="/signup" element={<SignupForm />} />
+            <Route path="/liked" element={<Scrap />} />
           </Routes>
         </main>
         <Footer />
